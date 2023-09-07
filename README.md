@@ -58,3 +58,159 @@ Open a web browser and type in 127.0.0.1 and if the installation worked then thi
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a virtual machine in Azure that runs
+Windows 10 and has 2-4 cores. Once it's intiated connect to it with remote desktop and enable IIS.
+Do this by clicking on the search bar and searching control panel then go to programs and then click Windows features on or off and enable Internet Information Serves and then enable CGI inisde of Application Development Features and
+Common HTTP Features also make sure lIS
+Management Console is enabled inside of WebManagement Tools.
+</p>
+<br />
+
+
