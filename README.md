@@ -137,10 +137,10 @@ HeidiSQL
 </p>
 <p>
 Go to OsTicket in your web browser continue the setup by adding in these texts for these fields:
-MySQL Database: sTicker
+MySQL Database: osTicker
 MySQL Username: root
 MySQL Password: password1
-This should complete the installationa and prompt you to begin the cleanup process which is to delete C: inetpub\wwwroot|osTicket\setup and to set permissions to Read only for
+This should complete the installation and prompt you to begin the cleanup process which is to delete C: inetpub\wwwroot|osTicket\setup and to set permissions to Read only for
 C: inetpub wwwroot osTicket include ost-config.php This concludes the setup demonstration for osTicket.
 </p>
 <br />
