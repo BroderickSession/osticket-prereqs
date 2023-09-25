@@ -54,7 +54,7 @@ First, we will be connecting to our VM through Remote Desktop Connnection. To do
 <p>
 Paste the link into the browser inside of your VM.
 
-- https://drive.google.com/drive/folders/1DABjdlQAXxIvWIURTiBelD0rw6IzLNru
+- https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 </p>
 <br />
 
