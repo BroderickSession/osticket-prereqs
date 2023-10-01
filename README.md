@@ -9,7 +9,7 @@ This is a tutorial that guides you through the prerequisites and installation of
   
 Download these files before we begin which contain installion files that we will donwload in the VM later.
 
-- [Google Drive folder](https://drive.google.com/drive/folders/1DABjdlQAXxIvWIURTiBelD0rw6IzLNru)<br />
+- [Google Drive folder](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 <h2>Environments and Tech Used</h2>
 
